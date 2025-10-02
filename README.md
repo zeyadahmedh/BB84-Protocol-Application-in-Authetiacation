@@ -1,6 +1,6 @@
 # BB84 Visual Tool  
 
-A simple **visual learning tool** for the **BB84 Quantum Key Distribution protocol**, built as an interactive app to show what happens when **Alice** and **Bob** use different inputs and measurement bases.  
+A simple **visual learning tool** for the **BB84 Quantum Key Distribution protocol**, built as an interactive app to show what happens when **Alice** and **Bob** use different inputs and measurement bases, where it also shows how this protocol can be applied in authentication, and used here on a simple password, to try out and send the message or the password correctly and see if any intrusion happened from **Eve**.  
 
 This project is designed to make it easier for students and enthusiasts to understand how BB84 works, step by step.  
 
